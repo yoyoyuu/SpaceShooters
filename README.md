@@ -1,3 +1,16 @@
+# Space Shooters: fracciones espaciales
+
+Videojuego desarrollado para la materia de Programación Estructurada, dentro de la carrera de **Ingenieria en Software y Tecnologías Emergentes** en la Universidad Autónoma de Baja California.
+
+Proyecto realizado por:
+
+ - Isis Vanesa Lopez Cisneros @yoyoyuu
+ - Fanny Lillian Mykytuk Ayvar @Lily-8
+
+Este proyecto fue realizado haciendo uso de la libreria externa **Raylib** para la interfaz gráfica y la lógica del juego.
+
+La documentación original de este proyecto se encuentra a continuación:
+
 # Raylib-Quickstart
 A simple cross platform template for setting up a project with the bleeding edge raylib code.
 Works with C or C++.
@@ -98,9 +111,3 @@ applications, and to alter it and redistribute it freely, subject to the followi
 
   1. The origin of this software must not be misrepresented; you must not claim that you 
   wrote the original software. If you use this software in a product, an acknowledgment 
-  in the product documentation would be appreciated but is not required.
-
-  2. Altered source versions must be plainly marked as such, and must not be misrepresented
-  as being the original software.
-
-  3. This notice may not be removed or altered from any source distribution.
